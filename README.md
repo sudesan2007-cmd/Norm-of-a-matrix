@@ -33,23 +33,21 @@ norm=np.linalg.norm(A,np.inf)
 print(norm)
 ```
 ## Output:
-<img width="1313" height="793" alt="Screenshot 2025-11-27 101753" src="https://github.com/user-attachments/assets/9efae332-9321-434c-bf8d-8470a4758cae" />
-<img width="889" height="766" alt="Screenshot 2025-11-27 101807" src="https://github.com/user-attachments/assets/5fc16dfc-35a8-4f5e-9a72-9ff30097c6dc" />
-<img width="1171" height="747" alt="Screenshot 2025-11-27 101821" src="https://github.com/user-attachments/assets/ff7c6d21-fe4f-47c0-bef5-242d95ba3381" />
-
-
 ### 1-Norm of a Matrix
-<br>
+<br><img width="1919" height="905" alt="Screenshot 2025-11-27 102534" src="https://github.com/user-attachments/assets/93424776-c553-4352-ad39-5aa7f08f484e" />
+
 <br>
 <br>
 
 ### 2-Norm of a Matrix
-<br>
+<br><img width="1919" height="867" alt="Screenshot 2025-11-27 102606" src="https://github.com/user-attachments/assets/f7cc86fb-3d30-4dc5-8b12-9a7f541976b1" />
+
 <br>
 <br>
 
 ### Infinity Norm of a Matrix
-<br>
+<br><img width="1919" height="845" alt="Screenshot 2025-11-27 102625" src="https://github.com/user-attachments/assets/d8eb923c-4429-47aa-8b00-1518ab22a221" />
+
 <br>
 <br>
 
